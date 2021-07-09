@@ -25,5 +25,5 @@ Copyright 2021 - The AOSP Project.
 ```
 # Compiling
 lunch aosp_enchilada-userdebug (this will auto pull all dependencies)
-mka bacon
+mka bacon | tee log.txt
 ```
